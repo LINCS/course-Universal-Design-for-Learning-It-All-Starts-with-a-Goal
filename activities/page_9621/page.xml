@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2242" moduleid="9621" modulename="page" contextid="64757">
+  <page id="2242">
+    <name>Share Assessment Data With Learners</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Effective adult education
+teachers share assessment data with learners&amp;nbsp;"to acknowledge
+progress, identify gaps, and determine next steps.”&lt;/p&gt;
+
+&lt;p&gt;Adult learners need to understand
+the purpose of assessments. Sharing the results from assessments will help
+adult learners focus on future learning, set their own learning goals, and will
+add meaning to the assessment process.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Whenever possible share and
+analyze assessment results with adult learners:&lt;/p&gt;
+
+&lt;div&gt;•&amp;nbsp;In&amp;nbsp;one-on-one settings&lt;/div&gt;
+
+&lt;div&gt;•Through group projects&lt;/div&gt;
+
+&lt;div&gt;•By having adults score or assess
+their own work&amp;nbsp;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt; &lt;a href="https://www.doe.mass.edu/acls/assessment/abe-assessment-guide-teacher.pdf" target="_blank"&gt;Good
+to Know Assessment Guides&lt;/a&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1686496769</timemodified>
+  </page>
+</activity>

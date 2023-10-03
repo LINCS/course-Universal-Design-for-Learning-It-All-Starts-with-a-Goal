@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2217" moduleid="9596" modulename="page" contextid="64732">
+  <page id="2217">
+    <name>Key Idea: Learners’ goals should drive instruction. </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-keyideasforward.png" alt="" width="140" height="136" role="presentation" class="img-responsive atto_image_button_text-top"&gt;&lt;/p&gt;&lt;p&gt;The primary incentive for learner
+persistence is the learner’s ability to set a goal and see personal progress
+toward reaching that goal. Learners' goals should therefore connect to and
+guide instruction.&amp;nbsp;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1675369471</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2236" moduleid="9615" modulename="page" contextid="64751">
+  <page id="2236">
+    <name>Example: Separate the goal from the means</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Teachers frequently tell learners
+how they want them to show what they know. For example, an assignment might
+say: Write an essay about what Robert Frost means in his poem "The Road
+Not Taken." Sounds reasonable. Right? Wrong! This teacher has infused the
+goal (to show what the learner knows about Robert Frost's poem) with how
+they must show it (write an essay).&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;By asking students to write
+about the poem the teacher is creating barriers for students who don't have
+access to a computer or might struggle with physically typing. To separate the
+goal from the means a teacher could simply say to students: Tell me what Robert
+Frost means in his Poem, "The Road Not Taken." The teacher could
+suggest students draw a picture, write, make a video, or even create a
+slideshow. But, by not requiring one format over the other they have created
+more access for learners.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1675372595</timemodified>
+  </page>
+</activity>

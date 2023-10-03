@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2226" moduleid="9605" modulename="page" contextid="64741">
+  <page id="2226">
+    <name>Vulnerability is Connected to Goal Setting</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Creating environments where
+people can be vulnerable is essential for learning, but for people who have
+experienced trauma or adverse childhood experiences be honest about what goals
+you want to achieve can be extremely frightening. Admitting that you want to
+earn your GED, even though you dropped out of school, or telling other people
+that you want to learn how to read, is not easy. It can bring
+up feelings of uncertainty, loss, heartbreak, or unworthiness.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;You can help your students set
+and achieve their goals by acknowledging how difficult it is to be vulnerable
+and by teaching them the power of vulnerability.&lt;/p&gt;
+
+&lt;p&gt;talk about the importance of
+creating classrooms where learners feel safe to have "real, honest,
+respectful conversations.”&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9635@$&amp;amp;forceview=1" target="_blank"&gt;Two
+activities you can bring into your classroom to encourage honest goal setting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1686495923</timemodified>
+  </page>
+</activity>

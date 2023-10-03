@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2208" moduleid="9587" modulename="page" contextid="64723">
+  <page id="2208">
+    <name>Before You Start: Let’s Try Something… </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;div&gt;&lt;span style="font-size: 1.7rem;"&gt;This module is all about goal
+setting. So, before you do anything else take a moment and create some goals
+based on what you want to achieve in your personal/family life and your working
+life. Be very specific when stating your goals.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;My personal life or family goals:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;In two weeks:&amp;nbsp;&lt;/li&gt;&lt;li&gt;In three months&lt;/li&gt;&lt;li&gt;In one year&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;My working life goals:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;In two weeks:&amp;nbsp;&lt;/li&gt;&lt;li&gt;In three months&lt;/li&gt;&lt;li&gt;In one year&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+&lt;img src="@@PLUGINFILE@@/pencil-icon.png" alt="" width="150" height="97" role="presentation" class="img-responsive atto_image_button_middle"&gt;&lt;strong&gt;Reflect on the following questions:&lt;/strong&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;How did it feel to write these
+goals? &lt;/li&gt;&lt;li&gt;Was it harder than you
+anticipated? &lt;/li&gt;&lt;li&gt;Did you struggle more with the
+long- or short-term goals? &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Keep these feelings in mind as
+you move through this module.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1676498353</timemodified>
+  </page>
+</activity>

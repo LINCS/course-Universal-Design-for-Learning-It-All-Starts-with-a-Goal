@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2230" moduleid="9609" modulename="page" contextid="64745">
+  <page id="2230">
+    <name>Steps for Designing Instructional Goals</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;It cannot be assumed that
+learners will know how to set goals or be able to persist in achieving goals.
+Educators can help learners by examining the goals using the five steps
+outlined in this section.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Overview of Steps&amp;nbsp;&lt;/p&gt;
+
+&lt;div&gt;&lt;ol&gt;&lt;li&gt;Start
+with a clear goal&lt;/li&gt;&lt;li&gt;Clearly
+state goals&lt;/li&gt;&lt;li&gt;Separate
+the goal from the&amp;nbsp;means&lt;/li&gt;&lt;li&gt;Divide
+large goals into smaller&amp;nbsp;steps&lt;/li&gt;&lt;li&gt;Offer
+authentic opportunities&amp;nbsp;for goal assessment&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1675371745</timemodified>
+  </page>
+</activity>

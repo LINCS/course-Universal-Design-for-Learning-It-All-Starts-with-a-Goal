@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2206" moduleid="9585" modulename="page" contextid="64721">
+  <page id="2206">
+    <name>Module Structure</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;This module is structured into seven sections.&amp;nbsp;
+&lt;/p&gt;
+
+&lt;div&gt;
+    &lt;ol&gt;
+        &lt;li&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Challenge&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;New
+Learning&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Wrap-Up&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Try It Yourself&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Assessment&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Course Completion&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;You'll find
+    &lt;strong&gt;Key&amp;nbsp;Ideas,&amp;nbsp;Pro Tips, Try it Yourself,&lt;/strong&gt; and &lt;strong&gt;Resources&lt;/strong&gt; linked&amp;nbsp;throughout the text.&amp;nbsp;All&amp;nbsp;linked materials are gathered, along with References, in &lt;a&gt;Section 4&lt;/a&gt;. This way, you&amp;nbsp;can choose
+    to learn more in the moment, or wait until&amp;nbsp;you've completed the core content.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Goal setting&amp;nbsp;is&amp;nbsp; incredibly important, especially for Adult Education (AE), learners who&amp;nbsp;come into the classroom with a range of backgrounds,&amp;nbsp;skills, and educational experiences.&amp;nbsp;Regardless of their motivations, however,
+    adults who can set clear goals such as,&amp;nbsp;“help my&amp;nbsp;children” or “get a&amp;nbsp;better job” are more likely to persist in AE programs&amp;nbsp;&lt;a href="$@PAGEVIEWBYID*9628@$&amp;amp;forceview=1" target="_blank"&gt;(Digital Promise, n.d.)&lt;/a&gt;.&amp;nbsp;&lt;strong&gt;Once
+you finish this module, you will feel better equipped to develop and teach a
+wide range of learners to create and monitor meaningful, obtainable
+goals.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources.png" alt="" width="68" height="66" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource:&lt;/strong&gt;    Learn more&amp;nbsp;about our inspiration,&amp;nbsp;&lt;u&gt;&lt;a href="http://iris.peabody.vanderbilt.edu/_archive/iris-and-adult-learning-theory/" target="_blank"&gt;How&amp;nbsp;People
+Learn Framework and the&amp;nbsp;STAR Legacy Model&lt;/a&gt;&lt;/u&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>18</revision>
+    <timemodified>1689882948</timemodified>
+  </page>
+</activity>

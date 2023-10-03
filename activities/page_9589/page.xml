@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2210" moduleid="9589" modulename="page" contextid="64725">
+  <page id="2210">
+    <name>Case Study: Trauma &amp; Goals</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong style="font-size: 1.7rem;"&gt;Video Title:&lt;/strong&gt;&lt;span style="font-size: 1.7rem;"&gt; &lt;/span&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;Kathy Olesen-Tracey and Trauma in AE
+Learners&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;Duration: 1min 56sec&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: rgb(255, 255, 255); font-size: 1.7rem;"&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/OCTAE%20Transcripts%20Module%201%20Goals_1.docx" target="_blank"&gt;Downloadable Transcripts&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://youtu.be/qSY5ocsNPc0" target="_blank"&gt;Kathy Olesen-Tracey and Trauma in AE Learners (video)&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;In this video Kathy Olesen-Tracey,&amp;nbsp;Senior Director for Adult Education and Family Literacy, Illinois Community College Board, shares that well over 80% of learners in Adult Education have experienced trauma. Kathy&amp;nbsp;believes that creating
+    the right environment – where learners feel supported and heard is critical to&amp;nbsp;goal setting.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Kathy believes that trauma informed teaching directly impacts learner persistence and engagement.&amp;nbsp;&amp;nbsp;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="68" height="66" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip:&lt;/strong&gt; &lt;a href="$@PAGEVIEWBYID*9626@$" target="_blank"&gt;Use case studies in
+your instruction.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>15</revision>
+    <timemodified>1688780802</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2235" moduleid="9614" modulename="page" contextid="64750">
+  <page id="2235">
+    <name>Step 3: Separate the goal from the means</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Separate&amp;nbsp;the “how,” to
+achieve or accomplish that goal from the goal itself.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Allowing for flexibility in how
+to accomplish the goal,&amp;nbsp;empowers learners to make choices that
+maximize their strengths, support&amp;nbsp;learning needs,
+and&amp;nbsp;demonstrate&amp;nbsp;understanding.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ask yourself: &lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;How have I offered flexibility in
+how my learners can work toward the goal?&lt;/li&gt;&lt;li&gt;How have I empowered and
+supported learners to choose the means they will use to achieve the goal?&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource&lt;/strong&gt;: &lt;a href="https://lincs.ed.gov/sites/default/files/GaM%20Designing%20Assessment%20Template_LFPA11y.docx" target="_blank"&gt;GaM
+Designing Assessments&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it yourself:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9639@$&amp;amp;forceview=1" target="_blank"&gt;Reflect
+on how you use your instructional goals to design assessments&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1691504560</timemodified>
+  </page>
+</activity>

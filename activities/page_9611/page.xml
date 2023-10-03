@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2232" moduleid="9611" modulename="page" contextid="64747">
+  <page id="2232">
+    <name>Examples of clear instructional goals: </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Clearly stated goals:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ol&gt;&lt;li&gt;Identify
+what supports&amp;nbsp;you need to complete course homework ahead of time.&lt;/li&gt;&lt;li&gt;Increase
+accuracy when reading out loud, by practicing reading newspaper articles.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Understand
+three critical steps for solving complex word problems in math, so you will do
+better on the GED.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;
+
+
+
+&lt;div&gt;&lt;!--[endif]--&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;These example goals:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Use clear wording&lt;/li&gt;&lt;li&gt;Frame the goal as an action&amp;nbsp;&lt;/li&gt;&lt;li&gt;Identify why the goal is
+meaningful&lt;/li&gt;&lt;li&gt;Are specific&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1675372013</timemodified>
+  </page>
+</activity>

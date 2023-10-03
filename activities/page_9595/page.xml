@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2216" moduleid="9595" modulename="page" contextid="64731">
+  <page id="2216">
+    <name>Celebrate Short-Term Goals </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Educators should draw learners'
+attention to the goals of each lesson. As AE teachers it is important to
+remember to align goals with&amp;nbsp;"proximal challenges." This
+means goals should be set close to the learning event. For example, if the goal
+of a lesson is to learn how to add fractions, examples of proximal challenges might
+be to "identify the denominator and numerator in a fraction" and "determine if the denominators of two fractions are the same." Once this
+goal is accomplished, educators should take the time to stop and celebrate with
+the learners. Doing this will model for learners how to set short-term goals
+and will build self-esteem which increases persistence towards longer
+goals &lt;a href="$@PAGEVIEWBYID*9628@$" target="_blank"&gt;(Hott, et al., 2012)&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip: &lt;/strong&gt;&lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9626@$&amp;amp;forceview=1" target="_blank"&gt;Celebrate
+the accomplishment of small goals.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9632@$" target="_blank"&gt;Set
+goals with your adult learners&lt;/a&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1688774730</timemodified>
+  </page>
+</activity>

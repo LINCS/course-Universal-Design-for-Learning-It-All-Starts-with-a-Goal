@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2215" moduleid="9594" modulename="page" contextid="64730">
+  <page id="2215">
+    <name>Help Learners Understand The Impact of Goals</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong style="font-size: 1.7rem;"&gt;Goals provide focus&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Adult learners often struggle to set&amp;nbsp;targeted goals. They &amp;nbsp;often articulate a hope or wish, as a goal but without a clear goal and an understanding of the steps needed to achieve it they can get feel frustrated and waste&amp;nbsp;energy and effort on activities that have no long-term significance.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Goals motivate&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Long-term goals such as passing a high school equivalency exam inspire adults to persist inspire of setbacks, while short term
+goals, such as learning how to write an essay can be used to&amp;nbsp;keep learners
+working&amp;nbsp;toward the vision. &amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Goals&amp;nbsp;transform &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When learners see progress in
+achieving both long and short-term goals it will have a positive impact on
+building self-esteem. By sharing goals and reflecting on the accomplishment of
+goals&amp;nbsp; in AE classrooms learners can also positively impact, inspire, and
+transform their peers, as well.&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;!--[endif]--&gt;&lt;/div&gt;&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9626@$&amp;amp;forceview=1" target="_blank"&gt;Make
+sure adult learners understand the "why" of goal setting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1692564656</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2231" moduleid="9610" modulename="page" contextid="64746">
+  <page id="2231">
+    <name>Step 1: Start with a clear goal</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;When designing instructional goals make sure you are using language that is accessible and understandable&amp;nbsp;for learners. Before you start make sure&amp;nbsp;students know the goal and its meaning.&amp;nbsp;This will help students know exactly what they&amp;nbsp;are working to achieve.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ask yourself:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Do my learners know what the goal is and what the goal means? How do I know they understand the goal?&lt;/li&gt;&lt;li&gt;Are my learners able to visualize and/or describe the goal in their own way?&lt;/li&gt;&lt;li&gt;Do my students understand "why" we have the goal?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation"&gt;Additional Resource:&lt;/strong&gt;&amp;nbsp;&lt;a href="https://www.cast.org/products-services/resources/2017/udl-tips-fostering-expert-learners" target="_blank"&gt;UDL Tips for Fostering Expert Learners&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1686496398</timemodified>
+  </page>
+</activity>

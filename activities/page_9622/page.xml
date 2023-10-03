@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2243" moduleid="9622" modulename="page" contextid="64758">
+  <page id="2243">
+    <name>Help Students Monitor Their Own Goals </name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Many
+adults already use goal monitoring tools such as budgeting, diet/healthy
+eating, and/or screen usage time to track their progress towards specific
+goals. Help adult learners understand they can use similar strategies to track
+and support learning.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;•Support&amp;nbsp;students
+to&amp;nbsp;monitor their progress&amp;nbsp;and&amp;nbsp;provide
+students&amp;nbsp;with&amp;nbsp;tools for
+self-monitoring&amp;nbsp;progress&amp;nbsp;toward&amp;nbsp;goals.&lt;/li&gt;&lt;li&gt;Monitoring goals
+includes&amp;nbsp;those metrics of progress, which may be a formal&amp;nbsp;assessment
+or specific tasks&lt;/li&gt;&lt;li&gt;Share&amp;nbsp;visual aids, graphic
+organizers, apps or check-lists with students as scaffolds for
+monitoring&amp;nbsp;progress.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro Tip&lt;/strong&gt;: &lt;a href="$@PAGEVIEWBYID*9626@$&amp;amp;forceview=1" target="_blank"&gt;Share goal monitoring apps&lt;/a&gt;.&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1686496819</timemodified>
+  </page>
+</activity>

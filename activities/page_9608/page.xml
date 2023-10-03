@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2229" moduleid="9608" modulename="page" contextid="64744">
+  <page id="2229">
+    <name>Overview of Designing Instructional Goals</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When you write an instructional goal make
+sure:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+    &lt;ul&gt;
+        &lt;li&gt;&lt;span style="font-size: 1.7rem;"&gt;The language is clear and simple,
+avoid complex goals that might be difficult to understand&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;The goal is relevant to the learner&lt;/li&gt;
+        &lt;li&gt;There is only contextual piece of knowledge or skill you are trying to accomplish&amp;nbsp;
+        &lt;/li&gt;
+        &lt;li&gt;The goal doesn't contain a number of steps or components&lt;/li&gt;
+        &lt;li&gt;You work with each learner to identify how this instructional goal connects (or is a step towards achieving) their personal goal&amp;nbsp;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;
+    &lt;!--[endif]--&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-resources.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try it Yourself:&lt;/strong&gt; &lt;/a&gt;
+    &lt;a href="$@PAGEVIEWBYID*9637@$&amp;amp;forceview=1" target="_blank"&gt;UDL Goals-Setting Guidelines for instructional design&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Additional Resource&lt;/strong&gt;:
+    &lt;a href="https://www.youtube.com/watch?v=91jXnIF4kEEembed=no&amp;amp; ;" target="_blank"&gt;Construct Relevance, Video&lt;/a&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1686496317</timemodified>
+  </page>
+</activity>

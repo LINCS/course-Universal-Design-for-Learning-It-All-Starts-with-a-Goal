@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2224" moduleid="9603" modulename="page" contextid="64739">
+  <page id="2224">
+    <name>Identify goals learners have already accomplished</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Everyone has accomplished some
+goals in their life. You can help all learners, but especially adults with
+learning differences feel more comfortable setting goals by identifying goals
+they have already accomplished. Doing this can reduce barriers and inequities
+some learners have in prior knowledge that is critical to setting
+goals.&amp;nbsp;However, there are also barriers for learners who have the
+necessary prior knowledge but might not know it is relevant.&amp;nbsp;Those
+barriers can be reduced when options are available that supply or activate
+relevant prior knowledge, or link to the pre-requisite information elsewhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a&gt;&lt;strong&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-tryityourself.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Try It Yourself:&lt;/strong&gt; &lt;/a&gt;&lt;a href="$@PAGEVIEWBYID*9633@$&amp;amp;forceview=1" target="_blank"&gt;Use
+Know-Want-Learn (KWL) methods to reflect on learning goals&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>7</revision>
+    <timemodified>1686791687</timemodified>
+  </page>
+</activity>

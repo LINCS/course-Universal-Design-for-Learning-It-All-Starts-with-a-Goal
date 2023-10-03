@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2237" moduleid="9616" modulename="page" contextid="64752">
+  <page id="2237">
+    <name>Step 4: Divide large goals into smaller steps</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Break larger, long-term goals
+into smaller steps or short-term goals to make them
+obtainable. Along the way, provide opportunities to acknowledge
+milestones and recognize achievements.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ask yourself:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;ul&gt;&lt;li&gt;Are my goals manageable for the
+time I've&amp;nbsp;allocated?&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;li&gt;Have I provided opportunities for
+learners to create their own milestones and long-term goals?&lt;/li&gt;&lt;li&gt;Do the learners have the
+resources to meet the demands of each subtask?&lt;/li&gt;&lt;li&gt;How will I celebrate and/or
+acknowledge subtask goals and milestones?&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1675372673</timemodified>
+  </page>
+</activity>

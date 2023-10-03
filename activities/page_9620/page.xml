@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2241" moduleid="9620" modulename="page" contextid="64756">
+  <page id="2241">
+    <name>Two ways to measure instructional goal achievement: Summative and Formative Assessments</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Summative Assessment&lt;/strong&gt;&amp;nbsp;is&amp;nbsp;used
+to determine learner&amp;nbsp;performance&amp;nbsp;at the end of a&amp;nbsp;specific grade
+level, unit,&amp;nbsp;year, or instructional&amp;nbsp;episode.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Formative Assessment&lt;/strong&gt;&amp;nbsp;is used to&amp;nbsp;monitor learner progress toward a&amp;nbsp;goal or
+major objective, used primarily&amp;nbsp;to determine what students
+have&amp;nbsp;learned to plan further instruction​&lt;/p&gt;&lt;table&gt;
+&lt;caption style="text-align: center;"&gt;Formative vs. Summative Assessments&amp;nbsp;&lt;/caption&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th scope="col"&gt;Formative Assessments:&lt;/th&gt;
+&lt;th scope="col"&gt;Summative&amp;nbsp;Assessments:&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;​&lt;span&gt;Provide ongoing “status” or feedback&amp;nbsp;as&amp;nbsp;students are learning&amp;nbsp;​&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: transparent; font-size: 1.7rem;"&gt;Involve frequent administration of&amp;nbsp;measure(s) during instructional learning&amp;nbsp;process​&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: transparent; font-size: 1.7rem;"&gt;Give educators opportunities to modify&amp;nbsp;instruction&amp;nbsp;based on outcomes&amp;nbsp;​&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Provide final evidence&amp;nbsp;&lt;span style="background-color: transparent; font-size: 1.7rem;"&gt;Involve single measure&amp;nbsp;following instruction&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: transparent; font-size: 1.7rem;"&gt;Legitimize educational&amp;nbsp;experience&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="background-color: transparent; font-size: 1.7rem;"&gt;Allow learners to earn&amp;nbsp;a&amp;nbsp;credential or certificate&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong style="color: rgb(73, 80, 87); font-size: 1.7rem; background-color: rgb(255, 255, 255);"&gt;&lt;img src="@@PLUGINFILE@@/octae-icon-protips.png" alt="" width="66" height="64" role="presentation" class="img-responsive atto_image_button_middle"&gt;Pro-Tip:&amp;nbsp;&lt;/strong&gt;&lt;span style="font-size: 1.7rem; background-color: rgb(255, 255, 255);"&gt;&lt;a href="$@PAGEVIEWBYID*9626@$&amp;amp;forceview=1" target="_blank"&gt;Use goal-development templates&lt;/a&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;/p&gt;&lt;img src="@@PLUGINFILE@@/divider-wave-1%20%282%29.png" alt="" width="1920" height="195" role="presentation" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:3:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1686496744</timemodified>
+  </page>
+</activity>
